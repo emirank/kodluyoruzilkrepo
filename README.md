@@ -22,4 +22,5 @@ Pull requestler kabul edilir. Büyük ölçüde değişikler için, lütfen önc
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
- 
+
+ ![Image](https://cdn-images-1.medium.com/max/1200/1*kKaPazOjZMC_svz3q5Axpg.png)
